@@ -1,0 +1,13 @@
+.scienceBackground1 {
+  background-image: url('https://img.freepik.com/free-photo/science-instruments-laboratory-room-science-research-concept_35378-2752.jpg?size=626&ext=jpg&ga=GA1.2.263970741.1643377412');
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+.headBack {
+  align-self: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #f50ab2;
+  font-style: italic;
+}
